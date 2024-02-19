@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import HomeIcon from '@mui/icons-material/Home';
-import appLogo from '../Images/beat-music-player-2013-04-22.png'
+import appLogo from '/beat-music-player-2013-04-22.png'
 import { Button, Tooltip } from '@mui/material';
 import AutoAwesomeIcon from '@mui/icons-material/AutoAwesome';
 import { useDispatch } from 'react-redux';
